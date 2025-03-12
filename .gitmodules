@@ -1,0 +1,6 @@
+[submodule "che-code"]
+	path = che-code
+	url = https://github.com/che-incubator/che-code
+[submodule "vscode-walkthrough-extension"]
+	path = vscode-walkthrough-extension
+	url = https://github.com/devfile/vscode-walkthrough-extension
